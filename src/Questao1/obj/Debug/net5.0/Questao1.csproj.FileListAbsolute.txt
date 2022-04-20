@@ -1,0 +1,16 @@
+D:\xubig\projects\ListaSemaforos\src\Questao1\bin\Debug\net5.0\Questao1.exe
+D:\xubig\projects\ListaSemaforos\src\Questao1\bin\Debug\net5.0\Questao1.deps.json
+D:\xubig\projects\ListaSemaforos\src\Questao1\bin\Debug\net5.0\Questao1.runtimeconfig.json
+D:\xubig\projects\ListaSemaforos\src\Questao1\bin\Debug\net5.0\Questao1.runtimeconfig.dev.json
+D:\xubig\projects\ListaSemaforos\src\Questao1\bin\Debug\net5.0\Questao1.dll
+D:\xubig\projects\ListaSemaforos\src\Questao1\bin\Debug\net5.0\Questao1.pdb
+D:\xubig\projects\ListaSemaforos\src\Questao1\obj\Debug\net5.0\Questao1.csproj.AssemblyReference.cache
+D:\xubig\projects\ListaSemaforos\src\Questao1\obj\Debug\net5.0\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+D:\xubig\projects\ListaSemaforos\src\Questao1\obj\Debug\net5.0\Questao1.AssemblyInfoInputs.cache
+D:\xubig\projects\ListaSemaforos\src\Questao1\obj\Debug\net5.0\Questao1.AssemblyInfo.cs
+D:\xubig\projects\ListaSemaforos\src\Questao1\obj\Debug\net5.0\Questao1.csproj.CoreCompileInputs.cache
+D:\xubig\projects\ListaSemaforos\src\Questao1\obj\Debug\net5.0\Questao1.dll
+D:\xubig\projects\ListaSemaforos\src\Questao1\obj\Debug\net5.0\refint\Questao1.dll
+D:\xubig\projects\ListaSemaforos\src\Questao1\obj\Debug\net5.0\Questao1.pdb
+D:\xubig\projects\ListaSemaforos\src\Questao1\obj\Debug\net5.0\Questao1.genruntimeconfig.cache
+D:\xubig\projects\ListaSemaforos\src\Questao1\obj\Debug\net5.0\ref\Questao1.dll
